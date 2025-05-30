@@ -4,7 +4,7 @@ This project analyzes ride cancellation patterns in a car rental service using R
 
 ## Documentation
 
-The comprehensive documentation covering all three projects is available in the file:
+The comprehensive documentation  is available in the file:
 
 **`Mithila_Final Project(3 cases).pdf`**
 
